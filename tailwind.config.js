@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       container: {
         center: true,
+        padding: '2rem',
         screens: {
           sm: '100%',
           md: '640px',
